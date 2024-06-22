@@ -2,15 +2,15 @@
 
 ## 🎯 Objectives
 
-The goal of this assignment is to demonstrate your understanding of basic JavaScript concepts such as variables, functions, and objects. You will also learn how to use JavaScript to manipulate the DOM and create interactive web pages.
+The goal of this project is to demonstrate my understanding of basic JavaScript concepts such as variables, functions, and objects. I will also learn how to use JavaScript to manipulate the DOM and create interactive web pages.
 
 ## ✅ Task: Tapas App
 
 - Open the `task-3-tapas-app` folder in VS Code and open the `index.html` file in your browser.
-- You should see a tapas app with list of tapas and a form to add new tapas.
-- Your task is to make the tapas app work.
+- I should see a tapas app with list of tapas and a form to add new tapas.
+- My task is to make the tapas app work.
 - The data should be stored in the `localStorage` property of the `window` object and should persist even after the browser is closed.
-- For this task, you will need to edit the just the `script.js` file.
+- For this task, I will need to edit the just the `script.js` file.
 
 - **_Hint:_** Look up the [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) method in JavaScript.
 - **_Hint:_** Look up the [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) method in JavaScript.
@@ -23,7 +23,7 @@ The goal of this assignment is to demonstrate your understanding of basic JavaSc
 
 ## ☕ Resources
 
-If you need help with any of the concepts covered in this assignment, here are some resources that you might find useful:
+If help is needed with any of the concepts covered in this project, here are some resources that might be useful:
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [W3Schools](https://www.w3schools.com/js/)
